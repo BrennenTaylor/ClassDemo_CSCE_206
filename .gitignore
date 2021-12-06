@@ -1,2 +1,4 @@
 example.exe
 *.exe
+*.gch
+*.s
